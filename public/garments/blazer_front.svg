@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <!-- Formal blazer — navy blue -->
+  <path d="M75 110 L30 180 L10 155 L55 90 L115 70 L145 115 Q200 140 255 115 L285 70 L345 90 L390 155 L370 180 L325 110 L315 480 L85 480 Z" fill="#1a2a4a" stroke="#0f1e38" stroke-width="3"/>
+  <!-- Left lapel -->
+  <path d="M145 115 L165 75 L200 110 L180 160 Z" fill="#243560" stroke="#0f1e38" stroke-width="2"/>
+  <!-- Right lapel -->
+  <path d="M255 115 L235 75 L200 110 L220 160 Z" fill="#243560" stroke="#0f1e38" stroke-width="2"/>
+  <!-- Pocket left -->
+  <rect x="105" y="260" width="60" height="15" rx="2" fill="#243560" stroke="#0f1e38" stroke-width="1.5"/>
+  <!-- Pocket right -->
+  <rect x="235" y="260" width="60" height="15" rx="2" fill="#243560" stroke="#0f1e38" stroke-width="1.5"/>
+  <!-- Breast pocket -->
+  <rect x="240" y="160" width="40" height="12" rx="2" fill="#243560" stroke="#0f1e38" stroke-width="1.5"/>
+  <!-- Button -->
+  <circle cx="200" cy="230" r="7" fill="#c8a84b" stroke="#a88a30" stroke-width="1.5"/>
+</svg>

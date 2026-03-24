@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <!-- Summer dress — coral/salmon -->
+  <!-- Bodice -->
+  <path d="M130 60 Q200 40 270 60 L290 80 L310 200 L90 200 L110 80 Z" fill="#E8886A" stroke="#d06050" stroke-width="2"/>
+  <!-- Skirt flare -->
+  <path d="M90 200 L50 580 Q200 600 350 580 L310 200 Z" fill="#E8886A" stroke="#d06050" stroke-width="2"/>
+  <!-- Left strap -->
+  <path d="M145 60 L130 10 L155 10 L165 60 Z" fill="#E8886A" stroke="#d06050" stroke-width="2"/>
+  <!-- Right strap -->
+  <path d="M255 60 L270 10 L245 10 L235 60 Z" fill="#E8886A" stroke="#d06050" stroke-width="2"/>
+  <!-- Waist seam -->
+  <path d="M90 200 Q200 215 310 200" fill="none" stroke="#d06050" stroke-width="2.5"/>
+  <!-- Floral details -->
+  <circle cx="160" cy="140" r="12" fill="#f0a080" opacity="0.6"/>
+  <circle cx="240" cy="160" r="10" fill="#f0a080" opacity="0.6"/>
+  <circle cx="200" cy="120" r="8" fill="#f0a080" opacity="0.6"/>
+  <!-- Skirt pattern lines -->
+  <path d="M130 250 Q150 350 110 450" fill="none" stroke="#d06050" stroke-width="1.5" opacity="0.5"/>
+  <path d="M200 245 Q200 360 200 460" fill="none" stroke="#d06050" stroke-width="1.5" opacity="0.5"/>
+  <path d="M270 250 Q250 350 290 450" fill="none" stroke="#d06050" stroke-width="1.5" opacity="0.5"/>
+</svg>

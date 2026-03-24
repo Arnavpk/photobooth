@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" width="420" height="520">
+  <!-- Hoodie — charcoal grey -->
+  <!-- Body -->
+  <path d="M85 140 L35 200 L15 175 L60 110 L130 80 L155 120 Q210 145 265 120 L290 80 L360 110 L405 175 L385 200 L335 140 L325 490 L95 490 Z" fill="#3a3a3a" stroke="#222222" stroke-width="3"/>
+  <!-- Hood -->
+  <path d="M130 80 Q140 20 200 10 Q260 20 270 80 L265 120 Q210 145 155 120 Z" fill="#3a3a3a" stroke="#222222" stroke-width="3"/>
+  <!-- Hood inner -->
+  <path d="M145 85 Q155 40 200 30 Q245 40 255 85 L252 110 Q210 130 148 110 Z" fill="#2a2a2a"/>
+  <!-- Kangaroo pocket -->
+  <path d="M130 310 L130 380 Q200 395 270 380 L270 310 Q200 295 130 310 Z" fill="#2e2e2e" stroke="#222222" stroke-width="2"/>
+  <!-- Drawstring -->
+  <line x1="175" y1="108" x2="155" y2="200" stroke="#555555" stroke-width="3" stroke-linecap="round"/>
+  <line x1="225" y1="108" x2="245" y2="200" stroke="#555555" stroke-width="3" stroke-linecap="round"/>
+  <!-- Drawstring tips -->
+  <ellipse cx="155" cy="205" rx="5" ry="8" fill="#444444" stroke="#333333" stroke-width="1"/>
+  <ellipse cx="245" cy="205" rx="5" ry="8" fill="#444444" stroke="#333333" stroke-width="1"/>
+  <!-- Ribbing at bottom -->
+  <path d="M95 490 Q210 505 325 490 L325 510 Q210 525 95 510 Z" fill="#2e2e2e" stroke="#222222" stroke-width="2"/>
+  <!-- Cuff left -->
+  <ellipse cx="25" cy="190" rx="18" ry="12" fill="#2e2e2e" stroke="#222222" stroke-width="2"/>
+  <!-- Cuff right -->
+  <ellipse cx="395" cy="190" rx="18" ry="12" fill="#2e2e2e" stroke="#222222" stroke-width="2"/>
+</svg>
